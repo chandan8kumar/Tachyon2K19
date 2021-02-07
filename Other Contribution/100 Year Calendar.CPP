@@ -252,7 +252,7 @@ else
 }
 
 int main(void)
-{cout<<"\n			|------Hundread Year Calender------|\n\n";
+{cout<<"\n			|------Hundread Year Calendar------|\n\n";
 
 calender obj;
 for(int i=0;i<1;i++)
